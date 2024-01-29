@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primenumber_checker", "primenumber_checker.csproj", "{F2E193A6-DD50-4726-8ED9-442851734D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E193A6-DD50-4726-8ED9-442851734D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E193A6-DD50-4726-8ED9-442851734D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E193A6-DD50-4726-8ED9-442851734D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E193A6-DD50-4726-8ED9-442851734D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C12126-FBC2-4C73-BE62-5794C6669034}
+	EndGlobalSection
+EndGlobal
